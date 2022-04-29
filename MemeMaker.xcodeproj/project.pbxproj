@@ -13,6 +13,7 @@
 		5352C55B280F6F7E00E6F457 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5352C559280F6F7E00E6F457 /* Main.storyboard */; };
 		5352C55D280F6F8200E6F457 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5352C55C280F6F8200E6F457 /* Assets.xcassets */; };
 		5352C560280F6F8200E6F457 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5352C55E280F6F8200E6F457 /* LaunchScreen.storyboard */; };
+		5352C568280F772100E6F457 /* CaptionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5352C567280F772100E6F457 /* CaptionOption.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5352C55C280F6F8200E6F457 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5352C55F280F6F8200E6F457 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5352C561280F6F8200E6F457 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5352C567280F772100E6F457 /* CaptionOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionOption.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				5352C555280F6F7E00E6F457 /* SceneDelegate.swift */,
 				5352C557280F6F7E00E6F457 /* ViewController.swift */,
 				5352C559280F6F7E00E6F457 /* Main.storyboard */,
+				5352C567280F772100E6F457 /* CaptionOption.swift */,
 				5352C55C280F6F8200E6F457 /* Assets.xcassets */,
 				5352C55E280F6F8200E6F457 /* LaunchScreen.storyboard */,
 				5352C561280F6F8200E6F457 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5352C558280F6F7E00E6F457 /* ViewController.swift in Sources */,
+				5352C568280F772100E6F457 /* CaptionOption.swift in Sources */,
 				5352C554280F6F7E00E6F457 /* AppDelegate.swift in Sources */,
 				5352C556280F6F7E00E6F457 /* SceneDelegate.swift in Sources */,
 			);
